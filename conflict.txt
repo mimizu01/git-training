@@ -1,3 +1,5 @@
-1行目をgit-training-clone側で変更
-2行目をgit-training-clone側で変更
-3行目をgit-training-clone側で変更
+
+1行目をconflict解消
+2行目をconflict解消
+3行目をconflict解消
+
