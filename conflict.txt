@@ -1,2 +1,3 @@
-Afile
-Bfile
+1行目をgit-training-clone側で変更
+2行目をgit-training-clone側で変更
+3行目をgit-training-clone側で変更
