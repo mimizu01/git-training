@@ -1,5 +1,5 @@
 1行目
-2行目 clone編集
-3行目 clone編集
+2行目 Python・clone編集
+3行目 Python・clone編集
 4行目
-5行目
+5行目 Python追記
